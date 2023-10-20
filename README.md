@@ -1,4 +1,4 @@
-Hondy! 👋
+Homdy! 👋
 
 My name is Ezequiel, I'm learning and creating my projects with HTML, CSS, and I'm starting to learn JavaScript and I intend to become one of the greatest programmers in the world.
 Currently I am learning:
