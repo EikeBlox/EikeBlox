@@ -3,7 +3,7 @@
 <p>Meu nome é Ezequiel, estou evoluindo, aprendendo e criando meus projetos com HTML, CSS e JavaScript, eu pretendo me tornar um dos maiores programadores do mundo, estou estudando bastante e me dedicado</p>
 
 <p>Atualmente eu aprendi:</p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" alt="html-logo" />
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alta="javascript-logo"/>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua-logo">
