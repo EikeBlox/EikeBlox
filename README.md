@@ -34,7 +34,7 @@
 <a href="https://www.youtube.com/@EikeBlox" title="Este é meu canal no YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" height="30"></a>
 <br>
 <p style="font-weight: bold;">🎮 Desenvolvedor de Jogos | 💻 Programador Front-End e Back-End | 📚 Aprendendo e Crescendo Constantemente</p>
-<br>
+
 [![EikeBlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=eikeblox)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eikeblox)](https://github.com/anuraghazra/github-readme-stats)
