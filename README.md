@@ -29,7 +29,7 @@
 
 <p style="font-weight: bold;">🌟 Meus Links:</p>
 
-<a href="https://bsky.app/profile/eikeblox.bsky.social" title="Este é meu perfil no BlueSky"><img src="https://img.shields.io/badge/BlueSky-00A1E0?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky Badge"></a>
+<a href="https://x.com/EikeBlox" title="Este é meu perfil no BlueSky"><img src="https://img.shields.io/badge/BlueSky-00A1E0?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky Badge"></a>
 <a href="https://www.roblox.com/pt/users/597434013/profile" title="Este é meu jogo no Roblox"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Badge"></a>
 <a href="https://www.youtube.com/@EikeBlox" title="Este é meu canal no YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
 
