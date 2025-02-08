@@ -14,7 +14,7 @@
 <p style="font-weight: bold;">🚀 Atualmente, estou trabalhando em:</p>
 <br>
 <ul>
-  <li>Desenvolvimento de jogos no <a href="https://www.roblox.com/games/7679295117/Dragon-Ball-Plus" title="Veja meu jogo no Roblox">Roblox</a> usando Lua.</li>
+  <li>Desenvolvimento de jogos no <a href="https://pt.wikipedia.org/wiki/Roblox" title="Veja meu jogo no Roblox">Roblox</a> usando Lua.</li>
   <li>Explorando novas possibilidades com Python e banco de dados.</li>
   <li>Expandindo meus conhecimentos em JavaScript e CSS para criar experiências web ainda mais impactantes.</li>
 </ul>
