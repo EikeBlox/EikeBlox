@@ -30,9 +30,6 @@
 <p style="font-weight: bold;">🌟 Meus Links:</p>
 <br>
 <a href="https://x.com/EikeBlox" title="Este é meu perfil no X"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X Badge" height="30"></a>
-<a href="https://www.roblox.com/pt/users/597434013/profile" title="Este é meu jogo no Roblox"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Badge" height="30"></a>
-<a href="https://www.youtube.com/@EikeBlox" title="Este é meu canal no YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" height="30"></a>
-<br>
 <p style="font-weight: bold;">🎮 Desenvolvedor de Jogos | 💻 Programador Front-End e Back-End | 📚 Aprendendo e Crescendo Constantemente</p>
 
 [![EikeBlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=eikeblox)](https://github.com/anuraghazra/github-readme-stats)
